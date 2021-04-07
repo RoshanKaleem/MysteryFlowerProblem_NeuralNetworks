@@ -1,9 +1,13 @@
 # MysteryFlowerProblem_NeuralNetworks
 
 Necessary installs:
+
 python -m pip install --upgrade pip
+
 pip install numpy
+
 python -m pip install -U pip
+
 python -m pip install -U matplotlib
 
 
