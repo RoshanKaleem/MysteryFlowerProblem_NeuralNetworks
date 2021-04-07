@@ -19,6 +19,5 @@ data = [[3, 1.5, 1],
 # Fisrt 2 parameters = width and length => 3 parameter = color => blue/red
 
 mystery_flower = [4.5, 1]
-
 #Prdicting whether the flower is blue or Red
 
